@@ -12,5 +12,7 @@ public class MainActivity extends Activity{
         int xx = 1;
         int yy = 2;
         int zz = 3;
+
+        int qq = 4;
     }
 }
